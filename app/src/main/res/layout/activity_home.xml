@@ -175,12 +175,6 @@
 
                 </LinearLayout>
 
-            <TabLayout
-                android:layout_width=""
-                android:layout_height="55dp">
-
-
-            </TabLayout>
 
 
             <GridView
